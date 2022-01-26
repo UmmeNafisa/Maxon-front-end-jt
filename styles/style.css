@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+body{
+    
+}
+.banner{
+   background-image: url("/Images/bg-1.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
+.btn-color{
+    background-color: #ff7215;
+    
+}
+.common-clr{
+    color: #ff7215;
+}
+.banner-img{
+    width: 500px;
+
+}
+.feature-img{
+    width: 30px;
+    height: 30px;
+  
+}
+.fi{
+    margin: auto;
+    width: 60px;
+    height: 60px;
+    background-color: peachpuff;
+    border-radius: 50%;
+    padding: 10px;
+}
+.fi-1{  
+    background-color: peachpuff;
+}
+.fi-2{
+    background-color: lavender;
+}
+.fi-3{
+    background-color: rgb(208, 238, 250);
+}
+.fi-4{
+    background-color: rgb(252, 228, 232);
+}
+.card:hover{
+    border: white;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+/* rank part */
+.rank-bg{
+    background-image: url('/Images/BG.png');
+}
+.rank-img{
+    width: 50px;
+    height: 50px;
+}
+.rank-card{
+    border: none;
+    width: 55%;
+background-color:#152b45 ;
+color: white;
+}
+.rank-card:hover{
+    background-color: #152b45;
+}
+/* footer */
+.footer-bg1{
+    background-image: url('/Images/BG\ \ 4.png');
+}
+.footer-bg2{
+    background-image: url('/Images/BG\ 2.png');
+}
+.footer-icon{
+    padding-right: 10px;
+    color: rgba(245, 245, 245, 0.692);
+}
+
+.insta-img{
+    width: 150px;
+    height: 80px;
+    padding-bottom: 15px;
+}
